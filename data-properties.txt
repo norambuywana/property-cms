@@ -1,0 +1,178 @@
+[
+    {
+        "id": 100007,
+        "address": "Lygten 30, Copenhagen, Denmark",
+        "price": "3000000",
+        "deposit": 100000,
+        "type": "home",
+        "full_address": {
+            "number": "23",
+            "street": "Lygten",
+            "city": "København",
+            "state": "",
+            "postal": "2400",
+            "country": "Denmark",
+            "latlng": "(55.838514, 12.430199000000016)"
+        }
+    },
+    {
+        "id": 100009,
+        "address": "Polensgade 4, København S, Denmark",
+        "price": "9999967",
+        "deposit": "3452",
+        "type": "Building",
+        "full_address": {
+            "number": "4",
+            "street": "Polensgade",
+            "city": "København",
+            "state": "",
+            "postal": "2300",
+            "country": "Denmark",
+            "latlng": "(55.666172, 12.613621999999964)"
+        }
+    },
+    {
+        "id": 100010,
+        "address": "Fiolstræde 23B, København K, Denmark",
+        "price": "2333333",
+        "deposit": "1000000",
+        "type": "building",
+        "full_address": {
+            "number": "23B",
+            "street": "Fiolstræde",
+            "city": "København",
+            "state": "",
+            "postal": "1171",
+            "country": "Denmark",
+            "latlng": "(55.738515, 12.430199000000016)"
+        }
+    },
+    {
+        "id": 100011,
+        "address": "Hans Henriksvej 1, Frederiksværk, Denmark",
+        "price": "30000000",
+        "deposit": "20000",
+        "type": "home",
+        "full_address": {
+            "number": "1",
+            "street": "Hans Henriksvej",
+            "city": "Frederiksværk",
+            "state": "",
+            "postal": "3300",
+            "country": "Denmark",
+            "latlng": "(55.838615, 12.430199000000016)"
+        }
+    },
+    {
+        "id": 100012,
+        "address": "Langeskovvej 31, Langeskov, Denmark",
+        "price": "443653432432",
+        "deposit": "30000",
+        "type": "home",
+        "full_address": {
+            "number": "31",
+            "street": "Langeskovvej",
+            "city": "Langeskov",
+            "state": "",
+            "postal": "5550",
+            "country": "Denmark",
+            "latlng": "(55.838518, 12.430199000000016)"
+        }
+    },
+    {
+        "id": 100013,
+        "address": "Helgolandsgade 21, Aalborg, Denmark",
+        "price": "2000000",
+        "deposit": "20000",
+        "type": "home",
+        "full_address": {
+            "number": "21",
+            "street": "Helgolandsgade",
+            "city": "Aalborg",
+            "state": "",
+            "postal": "9000",
+            "country": "Denmark",
+            "latlng": "(55.834515, 12.430199000000016)"
+        }
+    },
+    {
+        "id": 100014,
+        "address": "Havnegade 47A, København K, Denmark",
+        "price": "30000000",
+        "deposit": "1000000",
+        "type": "building",
+        "full_address": {
+            "number": "47A",
+            "street": "Havnegade",
+            "city": "København",
+            "state": "",
+            "postal": "1058",
+            "country": "Denmark",
+            "latlng": "(55.818515, 12.430199000000016)"
+        }
+    },
+    {
+        "id": 100015,
+        "address": "Sjællandsgade 54, Aalborg, Denmark",
+        "price": "4532876",
+        "deposit": "34666",
+        "type": "home",
+        "full_address": {
+            "number": "54",
+            "street": "Sjællandsgade",
+            "city": "Aalborg",
+            "state": "",
+            "postal": "9000",
+            "country": "Denmark",
+            "latlng": "(55.638515, 12.430199000000010)"
+        }
+    },
+    {
+        "id": 100016,
+        "address": "Lygten 2, Samsø Municipality, Denmark",
+        "price": "3000000",
+        "deposit": "30000",
+        "type": "home",
+        "full_address": {
+            "number": "2",
+            "street": "Lygten",
+            "city": "Samsø",
+            "state": "",
+            "postal": "8305",
+            "country": "Denmark",
+            "latlng": "(55.9655767, 10.55199330000005)"
+        }
+    },
+    {
+        "id": 100017,
+        "address": "Lygten 16, København NV, Denmark",
+        "price": "4432432",
+        "deposit": "4324",
+        "type": "home",
+        "full_address": {
+            "number": "16",
+            "street": "Lygten",
+            "city": "København",
+            "state": "",
+            "postal": "2400",
+            "country": "Denmark",
+            "latlng": "(55.706371, 12.53913)"
+        }
+    },
+    {
+        "id": 100018,
+        "address": "Lygten 2, Samsø Municipality, Denmark",
+        "price": "3000000",
+        "deposit": "30000",
+        "type": "home",
+        "full_address": {
+            "number": "2",
+            "street": "Lygten",
+            "city": "Samsø",
+            "state": "",
+            "postal": "8305",
+            "country": "Denmark",
+            "latlng": "(55.9655767, 10.55199330000005)"
+        }
+    }
+]

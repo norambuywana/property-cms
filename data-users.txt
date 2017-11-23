@@ -1,0 +1,71 @@
+[
+    {
+        "id": 1000,
+        "firstname": "A",
+        "lastname": "B",
+        "email": "A",
+        "password": "Password1",
+        "role": "superadmin",
+        "verify": true
+    },
+    {
+        "id": 1001,
+        "firstname": "Anna",
+        "lastname": "Hansen ",
+        "email": "anna@hansen.dk",
+        "password": "Hnasen123",
+        "role": "normal",
+        "key": "58f5d0d8df967",
+        "verify": false
+    },
+    {
+        "id": 1002,
+        "firstname": "Hans",
+        "lastname": "Annasen",
+        "email": "annasen@hdej.dk",
+        "password": "Annasen12",
+        "role": "normal",
+        "key": "58f5d2e7988de",
+        "verify": false
+    },
+    {
+        "id": 1003,
+        "firstname": "Søren",
+        "lastname": "Sørensen",
+        "email": "s.r.e@reftd.dk",
+        "password": "HellyHansen1",
+        "role": "normal",
+        "key": "58f5d39008267",
+        "verify": false
+    },
+    {
+        "id": 1004,
+        "firstname": "Jens",
+        "lastname": "Jensen",
+        "email": "jsdegfr@gredsfr.fk",
+        "password": "Jensen12",
+        "role": "normal",
+        "key": "58f5d3fa9e7b2",
+        "verify": false
+    },
+    {
+        "id": 1005,
+        "firstname": "Karl",
+        "lastname": "Karlsen",
+        "email": "fegre@gre.kf",
+        "password": "Hansens1",
+        "role": "normal",
+        "key": "58f5d521e0398",
+        "verify": false
+    },
+    {
+        "id": 1006,
+        "firstname": "Henrik",
+        "lastname": "Henriksen",
+        "email": "henrik@dk.dk",
+        "password": "Henriksen1",
+        "role": "normal",
+        "key": "58f5ff2faa3cc",
+        "verify": false
+    }
+]
