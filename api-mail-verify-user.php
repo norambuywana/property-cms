@@ -1,5 +1,5 @@
 <?php 
-	$sMailFrom 		= "From: <mail@mbuyu.dk>";
+	$sMailFrom 		= "From:";
 	$sMailTo 		= $sEmail;
 	$sSubject 		= "Verify your DreamHome profile";
 	$sRoot 			= (!empty($_SERVER['HTTPS']) ? 'https' : 'http') . '://' . $_SERVER['HTTP_HOST'] . '/';
